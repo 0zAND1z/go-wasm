@@ -1,0 +1,6 @@
+*.wasm
+target
+.vscode
+**/.DS_Store
+
+main.wasm
